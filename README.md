@@ -10,6 +10,19 @@ This project includes:
 
 ---
 
+##  Demo
+
+### Upload Interface
+![Upload Demo](assets/demo1.png)
+
+![Upload Demo](assets/demo2.png)
+
+### Prediction Example
+![Prediction Demo](assets/demo3.png)
+
+
+---
+
 ##  Model Performance (Validation Set)
 
 - **ROC-AUC:** ~0.88  
